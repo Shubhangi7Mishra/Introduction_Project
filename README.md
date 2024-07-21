@@ -1,9 +1,9 @@
-###GSAP INTRODUCTION 🪄
-##Welcome to my tiny corner of the web!
+### GSAP INTRODUCTION 🪄
+## Welcome to my tiny corner of the web!
 
 This is a simple project where I've experimented with the power of GSAP to create some fun animations👽
 
-#What's inside?
+# What's inside?
 
 Basic HTML structure
 Simple CSS styling
